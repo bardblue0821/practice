@@ -1,7 +1,6 @@
 N, K = map(int, input().split())
 h = list(map(int, input().split()))
 
-
 def chmin(a, b):
     if a > b:
         return b
